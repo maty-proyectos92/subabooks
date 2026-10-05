@@ -1,0 +1,6 @@
+{
+  "name": "BiblioScan AI - Catalogador Bibliográfico",
+  "description": "Extractor inteligente de metadatos bibliográficos a partir de fotos de tapas, lomos y contratapas con Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
